@@ -16,7 +16,7 @@ This is a small game based on your math skills in orther to improve your perform
 Install MathGame by cloning this repository
 
 ```bash
-  git clone https://github.com/Armandotrsg/MathGame
+  git clone https://github.com/Armandotrsg/MathGame.git
   cd MathGame
   python3 MathGame.py
 ```
